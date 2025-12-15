@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717811646 source:c:\users\86182\desktop\c++\ch15\main.cpp
+	<bits/stdc++.h>
+	"headd.h"
+
+1717811619 source:c:\users\86182\desktop\c++\ch15\yuan.cpp
+	<bits/stdc++.h>
+	"headd.h"
+
+1717587893 source:c:\users\86182\desktop\c++\ch15.1\1.cpp
+	<bits/stdc++.h>
+
+1717811689 c:\users\86182\desktop\c++\ch15\headd.h
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716554893 source:c:\users\86182\desktop\c++\ch13\t.cpp
+	<bits/stdc++.h>
+	"hhh.h"
+
+1584205420 source:c:\users\86182\desktop\c++\ch13\main.cpp
+	<iostream>
+
+1716554954 c:\users\86182\desktop\c++\ch13\hhh.h
+

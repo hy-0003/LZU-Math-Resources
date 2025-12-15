@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713356158 source:c:\users\86182\desktop\c++\ch8\main.cpp
+	<bits/stdc++.h>
+	"ch.h"
+
+1713355997 c:\users\86182\desktop\c++\ch8\ch.h
+	<bits/stdc++.h>
+
+1713356279 source:c:\users\86182\desktop\c++\ch8\yuan.cpp
+	<bits/stdc++.h>
+	"ch.h"
+
