@@ -1,9 +1,7 @@
-<h1 align="center">🏔️ LZU-Math-Hub | 兰大数院 & 萃英数学资料共享计划</h1>
+<h1 align="center">🏔️ LZU-Math-Hub | 兰大数院 & 萃英数学资料共享</h1>
 
 <div align="center">
-
-![LZU Logo](https://upload.wikimedia.org/wikipedia/zh/2/22/Lanzhou_University_logo.svg)
-
+  
 **自强不息，独树一帜**
 
 [课程目录](#directory) | [免责声明](#disclaimer)
