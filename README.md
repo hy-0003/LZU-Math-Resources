@@ -1,4 +1,4 @@
-# LZU-Math-Resources | 兰大数院 & 萃英数学资料共享
+<h1 align="center">🏔️ LZU-Math-Hub | 兰大数院 & 萃英数学资料共享计划</h1>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 **自强不息，独树一帜**
 
-[课程目录](#-课程导航-curriculum) | [免责声明](#-免责声明-disclaimer)
+[课程目录](#directory) | [免责声明](#disclaimer)
 
 </div>
 
@@ -18,6 +18,7 @@
 
 ---
 
+<span id="directory"></span>
 ## 🗂 目录结构 (Directory Structure)
 
 ```text
