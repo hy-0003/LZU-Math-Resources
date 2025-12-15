@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1713357925 source:c:\users\86182\desktop\c++\向量project\xiangliang\explain.cpp
+	<bits/stdc++.h>
+	"t.h"
+
+1713358272 source:c:\users\86182\desktop\c++\向量project\xiangliang\main.cpp
+	<bits/stdc++.h>
+	"t.h"
+
+1713358358 c:\users\86182\desktop\c++\向量project\xiangliang\t.h
+	<bits/stdc++.h>
+
+1720609384 source:c:\users\86182\desktop\办事\c++\向量project\xiangliang\explain.cpp
+	<bits/stdc++.h>
+	"t.h"
+
+1713358358 c:\users\86182\desktop\办事\c++\向量project\xiangliang\t.h
+	<bits/stdc++.h>
+
+1713358272 source:c:\users\86182\desktop\办事\c++\向量project\xiangliang\main.cpp
+	<bits/stdc++.h>
+	"t.h"
+
+1720609458 source:c:\users\86182\desktop\work\c++\向量project\xiangliang\explain.cpp
+	<bits/stdc++.h>
+	"t.h"
+
+1713358358 c:\users\86182\desktop\work\c++\向量project\xiangliang\t.h
+	<bits/stdc++.h>
+
+1713358272 source:c:\users\86182\desktop\work\c++\向量project\xiangliang\main.cpp
+	<bits/stdc++.h>
+	"t.h"
+
