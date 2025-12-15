@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713357106 source:c:\users\86182\desktop\c++\ch6.1\main.cpp
+	<bits/stdc++.h>
+	"ch6.1,h.h"
+
+1713357036 source:c:\users\86182\desktop\c++\ch6.1\ch6.1.explain.cpp
+	<bits/stdc++.h>
+	"ch6.1,h.h"
+
+1713356882 c:\users\86182\desktop\c++\ch6.1\ch6.1,h.h
+	<bits/stdc++.h>
+
